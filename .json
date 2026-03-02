@@ -1,0 +1,18 @@
+{
+  "name": "collective-access",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "next": "^13.5.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "stripe": "^12.9.0",
+    "stripe-js": "^1.58.0"
+  }
+}
